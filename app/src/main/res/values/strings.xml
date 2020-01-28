@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flickr Demo</string>
+
+    <string name="hint_search">Search here...</string>
+    <string name="btn_search">Search</string>
+    <string name="search_error_no_text">Please provide some input to search</string>
+
+    <string name="error_no_internet">No Internet Connection</string>
+
+    <string name="label_end">The End</string>
+</resources>
